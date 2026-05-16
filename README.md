@@ -4,7 +4,7 @@
 Projet basé sur un studio de post-production VFX fictif, VoxelsFX Studio, manipulant des données sensibles tels que des rushs vidéo, des assets numériques, et des projets clients sous NDA.
 
 ## Objectif
-Appliquer une démarche GRC basée sur ISO 27001 et les bonnes pratiques RGPD
+Appliquer une démarche GRC basée sur ISO 27001 et les bonnes pratiques RGPD.
 
 ## Contenu du projet
 - PSSI (Information Security Policy - ISP)
