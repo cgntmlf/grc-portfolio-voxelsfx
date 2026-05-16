@@ -1,4 +1,4 @@
-# grc-portfolio-voxelsfx
+# grc-portfolio-voxelsfx_studio
 
 ## Contexte
 Projet basé sur un studio de post-production VFX fictif, VoxelsFX Studio, manipulant des données sensibles tels que des rushs vidéo, des assets numériques, et des projets clients sous NDA.
