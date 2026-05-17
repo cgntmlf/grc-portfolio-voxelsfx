@@ -1,4 +1,5 @@
-# Portfolio Cybersécurité GRC
+# Portfolio Cybersécurité GRC Teddy NDOUMBE
+
 
 ## Contexte
 Projet basé sur un studio de post-production VFX fictif, VoxelsFX Studio, manipulant des données sensibles tels que des rushs vidéo, des assets numériques, et des projets clients sous NDA. Le but est d'appliquer une démarche GRC basée sur ISO 27001 et les bonnes pratiques RGPD.
