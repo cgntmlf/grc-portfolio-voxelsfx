@@ -1,4 +1,4 @@
-# Portfolio Cybersécurité GRC Teddy NDOUMBE
+# Portfolio Cybersécurité GRC - Teddy NDOUMBE
 
 
 ## Contexte
@@ -11,13 +11,15 @@ Projet basé sur un studio de post-production VFX fictif, VoxelsFX Studio, manip
 - Contribuer à la conformité ISO 27001 et RGPD
 
 ## Livrables
+
 ### Gouvernance
 - PSSI (Information Security Policy - ISP)
 - Password policy (todo)
+
 ### Gestion des risques
-- Matrice d’analyse des risques
-- Registre des actifs
-- Plan de traitement des risques
+- Matrice d’analyse des risques (todo)
+- Registre des actifs (todo)
+- Plan de traitement des risques (todo)
 ### Conformité
 - Registre des traitements RGPD (todo)
 - Cartographie des contrôles de sécurité ISO 27001 (SoA raccourcie à une vingtaine de contrôles) (todo)
