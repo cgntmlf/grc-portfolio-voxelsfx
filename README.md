@@ -1,16 +1,28 @@
-# grc-portfolio-voxelsfx_studio
+# Portfolio Cybersécurité GRC - Teddy NDOUMBE
+
 
 ## Contexte
-Projet basé sur un studio de post-production VFX fictif, VoxelsFX Studio, manipulant des données sensibles tels que des rushs vidéo, des assets numériques, et des projets clients sous NDA.
+Projet basé sur un studio de post-production VFX fictif, VoxelsFX Studio, manipulant des données sensibles tels que des rushs vidéo, des assets numériques, et des projets clients sous NDA. Le but est d'appliquer une démarche GRC basée sur ISO 27001 et les bonnes pratiques RGPD.
 
-## Objectif
-Appliquer une démarche GRC basée sur ISO 27001 et les bonnes pratiques RGPD.
+## Objectifs de Sécurité
+- Protéger les données sensibles et les actifs numériques
+- Réduire les risques cyber et opérationnels
+- Renforcer la gouvernance des accès
+- Contribuer à la conformité ISO 27001 et RGPD
 
-## Contenu du projet
+## Livrables
+
+### Gouvernance
 - PSSI (Information Security Policy - ISP)
-- Matrice de risques
-- Registre RGPD
-- Password policy
+- Password policy (todo)
+
+### Gestion des risques
+- Matrice d’analyse des risques (todo)
+- Registre des actifs (todo)
+- Plan de traitement des risques (todo)
+### Conformité
+- Registre des traitements RGPD (todo)
+- Cartographie des contrôles de sécurité ISO 27001 (SoA raccourcie à une vingtaine de contrôles) (todo)
 
 ## Référentiels utilisés
 - ISO 27001
@@ -18,4 +30,4 @@ Appliquer une démarche GRC basée sur ISO 27001 et les bonnes pratiques RGPD.
 - Bonnes pratiques cybersécurité (MFA, least privilege, sauvegardes, etc.)
 
 ## Objectif professionnel
-Projet réalisé dans le cadre d’une reconversion vers un poste en cybersécurité orientée GRC.
+Projet réalisé dans le cadre d’une reconversion vers des fonctions d'analyste/consultant GRC.
