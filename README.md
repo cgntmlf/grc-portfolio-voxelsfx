@@ -1,33 +1,11 @@
-# Portfolio Cybersécurité GRC - Teddy NDOUMBE
+# Gestion des risques
 
+Section dédiée à la gestion des risques de VoxelsFX Studio.
 
-## Contexte
-Projet basé sur un studio de post-production VFX fictif, VoxelsFX Studio, manipulant des données sensibles tels que des rushs vidéo, des assets numériques, et des projets clients sous NDA. Le but est d'appliquer une démarche GRC basée sur ISO 27001 et les bonnes pratiques RGPD.
+Ce dossier regroupe :
 
-## Objectifs de Sécurité
-- Protéger les données sensibles et les actifs numériques
-- Réduire les risques cyber et opérationnels
-- Renforcer la gouvernance des accès
-- Contribuer à la conformité ISO 27001 et RGPD
+- Registre des actifs
+- Matrice d’analyse des risques
+- Plan de traitement des risques
 
-## Livrables
-
-### Gouvernance
-- PSSI (Information Security Policy - ISP)
-- Password policy
-
-### Gestion des risques
-- Matrice d’analyse des risques (todo)
-- Registre des actifs (todo)
-- Plan de traitement des risques (todo)
-### Conformité
-- Registre des traitements RGPD (todo)
-- Cartographie des contrôles de sécurité ISO 27001 (SoA raccourcie à une vingtaine de contrôles) (todo)
-
-## Référentiels utilisés
-- ISO 27001
-- RGPD
-- Bonnes pratiques cybersécurité (MFA, least privilege, sauvegardes, etc.)
-
-## Objectif professionnel
-Projet réalisé dans le cadre d’une reconversion vers des fonctions d'analyste/consultant GRC.
+Ces documents permettent d’identifier, évaluer et traiter les risques liés aux actifs et aux activités du studio.
