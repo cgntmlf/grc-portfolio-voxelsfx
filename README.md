@@ -1,6 +1,6 @@
 # Gestion des risques
 
-Section dédiée à la gestion des risques de VoxelsFX Studio.
+Section dédiée à la gestion des risques du département effets spéciaux (FX) de VoxelsFX Studio.
 
 Ce dossier regroupe :
 
