@@ -14,7 +14,7 @@ Projet basé sur un studio de post-production VFX fictif, VoxelsFX Studio, manip
 
 ### Gouvernance
 - PSSI (Information Security Policy - ISP)
-- Password policy (todo)
+- Password policy
 
 ### Gestion des risques
 - Matrice d’analyse des risques (todo)
