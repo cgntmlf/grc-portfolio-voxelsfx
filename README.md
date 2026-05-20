@@ -18,7 +18,7 @@ Projet basé sur un studio de post-production VFX fictif, VoxelsFX Studio, manip
 
 ### Gestion des risques
 - Registre des actifs
-- Analyse des risques
+- Analyse de risques
 - Plan de traitement des risques (todo)
 
 ### Conformité
