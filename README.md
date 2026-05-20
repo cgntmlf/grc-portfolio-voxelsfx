@@ -17,9 +17,10 @@ Projet basé sur un studio de post-production VFX fictif, VoxelsFX Studio, manip
 - Password policy
 
 ### Gestion des risques
-- Matrice d’analyse des risques (todo)
-- Registre des actifs (todo)
+- Registre des actifs
+- Analyse des risques
 - Plan de traitement des risques (todo)
+
 ### Conformité
 - Registre des traitements RGPD (todo)
 - Cartographie des contrôles de sécurité ISO 27001 (SoA raccourcie à une vingtaine de contrôles) (todo)
