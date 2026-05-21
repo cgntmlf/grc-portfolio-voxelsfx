@@ -32,3 +32,5 @@ Projet basé sur un studio de post-production VFX fictif, VoxelsFX Studio, manip
 
 ## Objectif professionnel
 Projet réalisé dans le cadre d’une reconversion vers des fonctions d'analyste/consultant GRC.
+
+Les noms, coordonnées et informations organisationnelles présents dans l'intégralité des livrables du projet sont fictifs et utilisés à des fins pédagogiques.
