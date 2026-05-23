@@ -22,7 +22,7 @@ Projet basé sur un studio de post-production VFX fictif, VoxelsFX Studio, manip
 - Plan de traitement des risques
 
 ### Conformité
-- Registre des traitements RGPD
+- Registre des activités de traitement RGPD
 - Cartographie des contrôles de sécurité ISO 27001 (SoA raccourcie à une dizaine de contrôles) (todo)
 
 ## Référentiels utilisés
