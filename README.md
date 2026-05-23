@@ -23,7 +23,7 @@ Projet basé sur un studio de post-production VFX fictif, VoxelsFX Studio, manip
 
 ### Conformité
 - Registre des activités de traitement RGPD
-- Cartographie des contrôles de sécurité ISO 27001 (SoA raccourcie à une dizaine de contrôles) (todo)
+- Cartographie des contrôles de sécurité ISO 27001 (SoA raccourcie à une douzaine de contrôles)
 
 ## Référentiels utilisés
 - ISO 27001
