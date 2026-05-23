@@ -4,7 +4,5 @@ Section dédiée aux documents de conformité de VoxelsFX Studio.
 
 Ce dossier regroupe :
 
-- Registre de traitement RGPD
-- Politique de mots de passe (Password Policy)
-
-Ces documents définissent les règles de sécurité, les exigences d’authentification et les bonnes pratiques applicables à l’ensemble des utilisateurs et systèmes.
+- Registre des activités de traitement RGPD
+- Cartographie des contrôles de sécurité ISO 27001 (SoA raccourcie à une dizaine de contrôles)
