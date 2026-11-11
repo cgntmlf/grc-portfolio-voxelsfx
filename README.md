@@ -1,4 +1,6 @@
-# Portfolio Cybersécurité GRC - Teddy NDOUMBE
+# Portfolio Cybersécurité GRC
+
+Auteur : Teddy NDOUMBE
 
 
 ## Contexte
