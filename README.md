@@ -1,6 +1,6 @@
 # Portfolio Cybersécurité GRC
 
-<strong>Auteur : Teddy NDOUMBE</strong>
+<strong><span style="font-size: 18px;">Auteur : Teddy NDOUMBE</span></strong>
 
 
 ## Contexte
