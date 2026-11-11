@@ -31,8 +31,8 @@ Projet basé sur un studio de post-production VFX fictif, VoxelsFX Studio, manip
 - RGPD
 
 
-
-Les noms, coordonnées et informations organisationnelles présents dans l'intégralité des livrables du projet sont fictifs et utilisés à des fins pédagogiques.
+## Précision sur le projet
+VoxelsFX Studio est une organisation fictive créée à des fins pédagogiques. L'ensemble des noms, coordonnées, données et informations organisationnelles figurant dans les livrables sont fictifs et ne correspondent à aucune entité réelle.
 
 ## Contact
 
