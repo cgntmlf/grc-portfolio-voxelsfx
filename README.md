@@ -37,3 +37,8 @@ Projet réalisé dans le cadre d’une reconversion vers des fonctions de consul
 
 
 Les noms, coordonnées et informations organisationnelles présents dans l'intégralité des livrables du projet sont fictifs et utilisés à des fins pédagogiques.
+
+## Contact
+
+- [Email](mailto:ntteddy.idf@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/teddynt)
