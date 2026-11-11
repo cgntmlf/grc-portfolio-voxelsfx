@@ -29,10 +29,6 @@ Projet basé sur un studio de post-production VFX fictif, VoxelsFX Studio, manip
 - ISO 27001
 - ISO 27005
 - RGPD
-- Bonnes pratiques cybersécurité (MFA, least privilege, sauvegardes, etc.)
-
-## Objectif professionnel
-Projet réalisé dans le cadre d’une reconversion vers des fonctions de consultant GRC / DPO.
 
 
 
@@ -40,5 +36,5 @@ Les noms, coordonnées et informations organisationnelles présents dans l'inté
 
 ## Contact
 
-- [Email](mailto:ntteddy.idf@gmail.com)
+- [ntteddy.idf@gmail.com](mailto:ntteddy.idf@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/teddynt)
